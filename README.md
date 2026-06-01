@@ -1,42 +1,133 @@
-<h1 align="center">Hi 👋, I'm Mayank Mehta</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank10k&label=Profile%20views&color=0e75b6&style=flat" alt="mayank10k" /> </p>
+# Hi there, I'm Mayank Mehta 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank10k" alt="mayank10k" /></a> </p>
+### 🚀 Passionate MERN Stack Developer from India
 
-- 🔭 I’m currently working on **Full Stack Web Projects using React & Node.js (building real-world applications like auth systems, dashboards, REST APIs)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;UI%2FUX+Craftsman;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, and modern JavaScript (ES6+)**
+<br/>
 
-- 👯 I’m looking to collaborate on **Frontend-heavy projects, open-source contributions, and creative UI/UX experiments**
+[![Profile Views](https://komarev.com/ghpvc/?username=mayank10k&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/mayank10k)
+[![GitHub followers](https://img.shields.io/github/followers/mayank10k?label=Followers&style=social)](https://github.com/mayank10k)
 
-- 🤝 I’m looking for help with **Backend architecture, scalability, and advanced system design concepts**
+</div>
 
-- 💬 Ask me about **React, JavaScript fundamentals, GSAP animations, frontend performance**
+---
 
-- 📫 How to reach me **mayankmehta433@gmail.com**
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I love turning simple ideas into interactive web experiences.**
+```javascript
+const mayank = {
+  name: "Mayank Mehta",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  currentFocus: "Building real-world apps — auth systems, dashboards, REST APIs",
+  learning: ["Advanced System Design", "Backend Architecture", "Scalability"],
+  collaboration: "Frontend-heavy projects & open-source contributions",
+  funFact: "I love turning simple ideas into interactive web experiences ⚡"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-mehta-47413a302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-mehta-47413a302" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30409380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30409380" height="30" width="40" /></a>
-<a href="https://instagram.com/mynkkkkk___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mynkkkkk___" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayank_10k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_10k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mayankmehta433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayankmehta433" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayank10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayank10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayank-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank-mehta" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mayank3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mayank3421" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mayankmetpyn/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayankmetpyn/profile" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔥 What I'm Up To
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank10k&show_icons=true&locale=en&layout=compact" alt="mayank10k" /></p>
+- 🛠️ **Building** Full Stack Web Projects with React & Node.js
+- 📖 **Learning** React.js, Node.js, Express.js, MongoDB & modern JavaScript (ES6+)
+- 🤝 **Open to collaborate** on frontend-heavy projects & creative UI/UX experiments
+- 🆘 **Looking for help** with backend architecture, scalability & advanced system design
+- 💬 **Ask me about** React, JavaScript fundamentals, GSAP animations, frontend performance
+- 📬 **Reach me at** [mayankmehta433@gmail.com](mailto:mayankmehta433@gmail.com)
+- ⚡ **Fun fact** I love turning simple ideas into interactive web experiences!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank10k&show_icons=true&locale=en" alt="mayank10k" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank10k&" alt="mayank10k" /></p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank10k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank10k&theme=tokyonight&hide_border=true" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank10k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mayank10k&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank10k&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank10k)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mayank10k)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayank10k)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mayank10k)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mayank10k)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmehta433@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is not just about solving problems — it's about crafting experiences."
+
+![Wave](https://raw.githubusercontent.com/mayank10k/mayank10k/output/github-contribution-grid-snake-dark.svg)
+
+⭐ **If you find my work helpful, consider starring my repos!** ⭐
+
+</div>
